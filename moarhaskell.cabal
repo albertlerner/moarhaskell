@@ -1,0 +1,9 @@
+name:              moarhaskell
+version:           1.0
+Build-Type:        Simple
+cabal-version:     >= 1.2
+
+executable moarhaskell
+  main-is:         Main.hs
+  hs-source-dirs:  src
+  build-depends:   base
